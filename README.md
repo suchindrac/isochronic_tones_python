@@ -23,4 +23,4 @@ C:\IsochronicTonesPython\>
 
 The wave that is created as a result is of the following type:
 
-![Wave Format] (https://github.com/suchindrac/isochronic_tones_python/blob/master/wave_format.JPG)
+![Wave Format](https://github.com/suchindrac/isochronic_tones_python/blob/master/wave_format.JPG)
