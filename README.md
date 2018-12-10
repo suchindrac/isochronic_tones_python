@@ -18,3 +18,9 @@ gen_isochronic_tones.py:168: DeprecationWarning: tostring() is deprecated. Use t
 
 C:\IsochronicTonesPython\>
 ```
+
+## Resultant wave:
+
+The wave that is created as a result is of the following type:
+
+![Wave Format] (https://github.com/suchindrac/isochronic_tones_python/blob/master/wave_format.JPG)
